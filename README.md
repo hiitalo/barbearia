@@ -1,0 +1,1 @@
+Site sobre BARBEARIA, onde fiz usei HTMl e CSS, para dominío. No fim saiu um projeto bem bacana e melhor do que o esperado. Acredito que para ficar um site profissional para algum cliente, eu deveria acrescentar um JavaScript e ligar um banco de dados, para que o contato chegasse até o cliente ou colocasse até um agendamento online, dentro do site para facilar para o cliente.
